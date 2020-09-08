@@ -1,3 +1,8 @@
+---
+name: Pull Request
+about: A new contribution of code.
+---
+
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description
